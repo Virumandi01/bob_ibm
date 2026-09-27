@@ -1,0 +1,6 @@
+streamlit
+pydantic
+pytest
+pytest-asyncio
+requests
+httpx
